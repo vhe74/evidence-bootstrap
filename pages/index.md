@@ -13,6 +13,7 @@ Cette page détaille des statistiques de ventes de produits
   y=sales_usd
   swapXY=true
 />
+<a href="categories">En savoir plus sur les catégories de produits</a>
 
 ## Evolution des ventes 
 <LineChart
@@ -27,12 +28,6 @@ Cette page détaille des statistiques de ventes de produits
   y=sales
   series=category
 />
-
-
-
-
-
-
 
 
 
